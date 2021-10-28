@@ -1,0 +1,8 @@
+D:\Downloads\ChatServer\BTH\ChatServer\bin\Release\ChatServer.exe
+D:\Downloads\ChatServer\BTH\ChatServer\bin\Release\ChatServer.pdb
+D:\Downloads\ChatServer\BTH\ChatServer\obj\Release\ChatServer.Properties.Resources.resources
+D:\Downloads\ChatServer\BTH\ChatServer\obj\Release\ChatServer.Server.resources
+D:\Downloads\ChatServer\BTH\ChatServer\obj\Release\ChatServer.csproj.GenerateResource.cache
+D:\Downloads\ChatServer\BTH\ChatServer\obj\Release\ChatServer.csproj.CoreCompileInputs.cache
+D:\Downloads\ChatServer\BTH\ChatServer\obj\Release\ChatServer.exe
+D:\Downloads\ChatServer\BTH\ChatServer\obj\Release\ChatServer.pdb
